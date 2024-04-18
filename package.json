@@ -1,0 +1,17 @@
+{
+  "name": "mytelegrambotonvercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iurii Moroz",
+  "license": "ISC",
+  "description": "Telegram bot to be hosted on Vercel",
+  "dependencies": {
+    "@vercel/postgres": "^0.8.0",
+    "axios": "^1.6.8",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
